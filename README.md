@@ -1,2 +1,2 @@
-#Lindsey Scott Tribute Webpage
+# Lindsey Scott Tribute Webpage
 Tribute webpage for Lindsey Scott
