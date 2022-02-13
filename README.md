@@ -1,2 +1,2 @@
 # Lindsey Scott Tribute Webpage
-Tribute webpage for Lindsey Scott
+Lindsey Scott tribute webpage made during G{Code} Program.
